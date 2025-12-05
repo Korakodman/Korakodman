@@ -7,7 +7,7 @@ Frontend Developer
 Just Junior Frontend Developer no experience trying to learning programming
 
 * 🌍  I'm based in Thailand Bangkok
-* 🖥️  See my portfolio at [Portfolio](http://myportfoliowebsiteenola.netlify.app/)
+* 🖥️  See my portfolio at [Portfolio](https://portfoliowebsitekorakod.netlify.app/)
 * ✉️  You can contact me at [korakodmice@gmail.com](mailto:korakodmice@gmail.com)
 * 🧠  I'm learning Javascript NextJS TailwindCSS
 

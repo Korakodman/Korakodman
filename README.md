@@ -5,7 +5,7 @@ Junior Full-Stack Developer
 ---------------------------
 
 * 🌍  I'm based in Thailand Bangkok
-* 🖥️  See my portfolio at [PortfolioWebSiteKorakod]([http://https://portfoliowebsitekorakod.netlify.app/](https://portfoliowebsitekorakod.netlify.app/))
+* 🖥️  See my portfolio at [PortfolioWebSiteKorakod](https://portfoliowebsitekorakod.netlify.app/)
 * ✉️  You can contact me at [Korakodmice@gmail.com](mailto:Korakodmice@gmail.com)
 * 🧠  I'm currently learning Socket,Python,Typescript and Codex
 
